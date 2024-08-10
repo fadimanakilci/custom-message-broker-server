@@ -38,7 +38,7 @@ Follow these steps to set up and run your server:
 
 ## 💻 Example Usage
 
-Here's a basic Java example for setting up and running the server:
+Here's a basic Java example for sending and receiving messages:
 ```java
 server.sendMessage("{\"message_type\":1,\"event_type\":1001,\"id\":1,\"device_id\":3250734," +
                            "\"old_value_i32\":\"gnss_status i32\",\"new_value_i32\":\"gnss_status i32\"," +
